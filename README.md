@@ -1,3 +1,3 @@
 # myweb
 
-https://github.com/sanmathew1903/myweb.git
+https://sanmathew1903.github.io/myweb/
